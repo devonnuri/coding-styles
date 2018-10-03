@@ -38,6 +38,7 @@ As such, I would appreciate it if you could refer to it because it has a vocabul
 
 ### 한국어
 * [Indentation](ko/indentation.md)
+* [CSS](ko/css.md)
 
 ### 日本語
 * [Indentation](ja/indentation.md)
